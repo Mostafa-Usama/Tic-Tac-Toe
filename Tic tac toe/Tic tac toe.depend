@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650421332 source:d:\codeblocks\tic tac toe\main.cpp
+	<iostream>
+	<algorithm>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1650421332 source:d:\projects\my projects\tic tac toe\main.cpp
+	<iostream>
+	<algorithm>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
